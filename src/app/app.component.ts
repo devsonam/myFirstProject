@@ -9,7 +9,7 @@ export class AppComponent {
   title = 'Angular App';
   name = 'sonam singh';
   testVar() {
-    const a = 5;
+    const a = 55;
     console.log(a);
 }
 }
